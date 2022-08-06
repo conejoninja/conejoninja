@@ -17,6 +17,10 @@ Oryctolagus cuniculus sapiens. Cooking aficionado. Like to chew arduino boards a
   <br>
 </div>
 
+### 🔗 Links
+
+- [Talks I gave](https://talks.madriguera.me/)
+- [Hackster.io profile & projects](https://www.hackster.io/_conejo/projects)
 
 ### 📫 Connect with me
 
