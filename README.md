@@ -8,10 +8,10 @@ Oryctolagus cuniculus sapiens. Cooking aficionado. Like to chew arduino boards a
 ### 🔭 My last contributions
 
 
+- [conejoninja/badger-fun](https://github.com/conejoninja/badger-fun)
 - [truust-io/docs.truust.io](https://github.com/truust-io/docs.truust.io)
 - [tinygo-org/gobadge](https://github.com/tinygo-org/gobadge)
 - [conejoninja/gopher-helmet](https://github.com/conejoninja/gopher-helmet)
-- [conejoninja/badger-fun](https://github.com/conejoninja/badger-fun)
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo)
 
   <br>
