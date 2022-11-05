@@ -25,7 +25,9 @@ Oryctolagus cuniculus sapiens. Cooking aficionado. Like to chew arduino boards a
 ### 📫 Connect with me
 
 [<img align="left" alt="conejo | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="conejo | Twitter" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />][mastodon]
 [<img align="left" alt="conejo | Twitter" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [twitter]: https://twitter.com/_conejo
 [linkedin]: https://www.linkedin.com/in/danielesteban/
+[mastodon]: https://social.tinygo.org/@conejo
