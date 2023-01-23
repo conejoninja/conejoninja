@@ -10,9 +10,9 @@ Oryctolagus cuniculus sapiens. Cooking aficionado. Like to chew arduino boards a
 
 - [tinygo-org/gobadge](https://github.com/tinygo-org/gobadge)
 - [conejoninja/gopherino](https://github.com/conejoninja/gopherino)
+- [conejoninja/shrimp-tank](https://github.com/conejoninja/shrimp-tank)
+- [conejoninja/cfworker](https://github.com/conejoninja/cfworker)
 - [conejoninja/xmas-ball](https://github.com/conejoninja/xmas-ball)
-- [conejoninja/rabbit-feeder](https://github.com/conejoninja/rabbit-feeder)
-- [tinygo-org/drivers](https://github.com/tinygo-org/drivers)
 
   <br>
 </div>
